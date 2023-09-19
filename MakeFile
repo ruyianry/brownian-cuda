@@ -1,0 +1,2 @@
+example:
+	nvcc brownian.cu -std=c++16 -o simulator.out
